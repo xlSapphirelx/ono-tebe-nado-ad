@@ -1,3 +1,3 @@
 # Оно тебе надо
 
-https://github.com/username/ono-tebe-nado-ad
+https://github.com/xlSapphirelx/ono-tebe-nado-ad
